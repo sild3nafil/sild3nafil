@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JI
 - 👀 I’m interested in sleeping
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning poopoo
 
 <!---
 sild3nafil/sild3nafil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
